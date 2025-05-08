@@ -24,4 +24,7 @@ This project performs **road lane detection** on both images and videos using ed
 - **Hardware:** Basic system with webcam (if using live input)
 - **OS:** Cross-platform (Windows, Linux, macOS)
 
+I learnt this from YouTube and here is the link https://youtu.be/eLTLtUVuuy4?si=NMUmC_RsuSzZrbPe this helped me a lot in understanding openCV in dept thanks to the creator and ive implemented lane detection for both image and video which show one after other .
+
+
 
